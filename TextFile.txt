@@ -1,5 +1,4 @@
 
 updated in local master 
 Test1 file updated in github master
-
-new line added in local
+Added one line remote master
